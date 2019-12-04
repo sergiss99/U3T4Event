@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onSaveInstanceState(Bundle outState) {
 
-        outState.putString("error",tvCurrentData.getText().toString());
+        outState.putString("data",tvCurrentData.getText().toString());
 
 
         super.onSaveInstanceState(outState);
