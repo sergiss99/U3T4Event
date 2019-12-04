@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">U3T4Event</string>
+    <string name="tvNewEvent">New Event</string>
+    <string name="tvCuttentData">Current Data</string>
+    <string name="etEventName">Type an event name</string>
+    <string name="btEditEventData">Edit Event Data</string>
+
+    <string name="title_activity_avent_data">Event Data</string>
+    <string name="tvPriority">Priority</string>
+    <string name="rbLow">Low</string>
+    <string name="rbNormal">Normal</string>
+    <string name="rbHigh">High</string>
+
+    <string name="dateTime">Set Date and Time</string>
+
+    <string name="accept">ACCEPT</string>
+    <string name="cancel">CANCEL</string>
+    <string name="place">PLACE</string>
+
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+
+</resources>

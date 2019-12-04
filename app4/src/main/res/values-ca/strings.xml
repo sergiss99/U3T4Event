@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">U3T4Event</string>
+    <string name="tvNewEvent">Nou Event</string>
+    <string name="tvCuttentData">Dades Actuals</string>
+    <string name="etEventName">Donali nom al event</string>
+    <string name="btEditEventData">Edita les dades del event</string>
+
+    <string name="title_activity_avent_data">Dades del event</string>
+    <string name="tvPriority">Prioritat</string>
+    <string name="rbLow">Baixa</string>
+    <string name="rbNormal">Normal</string>
+    <string name="rbHigh">Alta</string>
+
+    <string name="dateTime">Tria data i hora</string>
+
+    <string name="accept">ACCEPTAR</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="place">LLOC</string>
+
+    <string name="date">Data</string>
+    <string name="time">Hora</string>
+
+    <string-array name="months">
+        <item>Gener</item>
+        <item>Febrer</item>
+        <item>Març</item>
+        <item>Abril</item>
+        <item>Maig</item>
+        <item>Juny</item>
+        <item>Juliol</item>
+        <item>Agost</item>
+        <item>Septembre</item>
+        <item>Octubre</item>
+        <item>Novembre</item>
+        <item>Decembre</item>
+    </string-array>
+
+
+</resources>
